@@ -11,6 +11,7 @@
 - [Somto Ogbe](https://github.com/somtoval)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - Infernal Blueberry
+- [Faakhar Habeeb](https://github.com/faakharhzb)
 - Annie was here
 - [haruna libero](https://github.com/harunalibero)
 - [HAONAN TAO](https://github.com/HAONANTAO)
